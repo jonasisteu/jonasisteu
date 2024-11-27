@@ -11,7 +11,7 @@
 
 - TypeScript
 - ReactJS
-- ExpressJS.
+- ExpressJS
 
 ### Passionate about creating intuitive and efficient web applications.
 
